@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33717.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanoParaInteiro", "RomanoParaInteiro\RomanoParaInteiro.csproj", "{FCA6A8FB-D976-4123-8584-F26B746709ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanoParaInteiro", "RomanoParaInteiro\RomanoParaInteiro.csproj", "{FCA6A8FB-D976-4123-8584-F26B746709ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercício 1", "Exercício 1", "{691CBB17-1C53-4D8F-A6F1-0A0131745DD5}"
 EndProject
@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercício 2", "Exercício 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercício 3", "Exercício 3", "{498F36E3-8F3E-4FD0-A2AA-120EE5B6292B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorDeSenha", "GeradorDeSenha\GeradorDeSenha.csproj", "{CDD81897-1F1F-42F6-8327-731021DE7B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeradorDeSenha", "GeradorDeSenha\GeradorDeSenha.csproj", "{CDD81897-1F1F-42F6-8327-731021DE7B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionamentoElevador", "FuncionamentoElevador\FuncionamentoElevador.csproj", "{815F04DF-735E-4D56-8CB5-3355E5FDF3F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CDD81897-1F1F-42F6-8327-731021DE7B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDD81897-1F1F-42F6-8327-731021DE7B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDD81897-1F1F-42F6-8327-731021DE7B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815F04DF-735E-4D56-8CB5-3355E5FDF3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815F04DF-735E-4D56-8CB5-3355E5FDF3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815F04DF-735E-4D56-8CB5-3355E5FDF3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815F04DF-735E-4D56-8CB5-3355E5FDF3F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FCA6A8FB-D976-4123-8584-F26B746709ED} = {691CBB17-1C53-4D8F-A6F1-0A0131745DD5}
 		{CDD81897-1F1F-42F6-8327-731021DE7B73} = {61EA7BED-EC3C-4D9F-A8F0-3BFDD908741D}
+		{815F04DF-735E-4D56-8CB5-3355E5FDF3F0} = {498F36E3-8F3E-4FD0-A2AA-120EE5B6292B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A07EE8ED-2923-48F8-887B-CD4F9A33BD87}
