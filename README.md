@@ -16,7 +16,7 @@ Sinta-se encorajado a fornecer feedback e sugestões para aprimorar ainda mais e
 
 Passo 1: Clonar o repositório
 
-Com o seu terminal, navegue até o diretório onde deseja armazenar o repositório clonado usando o comando cd. No terminal, execute o seguinte comando para clonar o repositório: https://caminho/para/o/repositório.git
+Com o seu terminal, navegue até o diretório onde deseja armazenar o repositório clonado usando o comando cd. No terminal, execute o seguinte comando para clonar o repositório: git clone https://caminho/para/o/repositório.git
 
 Passo 2: Abrir o projeto no Visual Studio
 
